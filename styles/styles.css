@@ -1,3 +1,44 @@
+/* font-family: 'Inter', sans-serif;
+font-family: 'Lexend Deca', sans-serif; */
+body{
+    background-color: hsl(233, 47%, 7%);
+    color: hsl(0, 0%, 100%);
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+.card{
+    background-color: hsl(244, 38%, 16%);
+    border-radius: 10px;
+    margin: 11% auto;
+    padding: 0;
+}
+.card-body{
+    margin: 0;
+    padding: 0;
+}
+.card-body .card-text{
+    padding: 40px 0 50px 50px;
+}
+.card-body h1{
+    font-weight: 700;
+}
+.card-body h1 span{
+    color: hsl(277, 64%, 61%);
+}
+.card-body #info{
+    padding: 30px 70px 0 0;
+}
+.card-body #stats{
+    padding: 70px 0 0 0;
+}
+.card-body #stats .stat-value{
+    font-weight: 700;
+}
+.card-body img{
+    /* background-color: hsl(277, 64%, 61%); */
+    border-radius: 0 10px 10px 0;
+}
 .attribution{ 
     font-size: 11px; 
     text-align: center; 
