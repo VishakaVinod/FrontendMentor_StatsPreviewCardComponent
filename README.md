@@ -1,7 +1,6 @@
 # Frontend Mentor - Stats preview card component solution
 
-<!-- Add screenshot img -->
-![](images/mobile-screenshot.jpeg)
+![Screen shot or mobile design](images/mobile-screenshot.jpeg)
 
 ## Table of contents
 
@@ -57,7 +56,7 @@
 
 ### Useful resources
 
-<!-- - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward. -->
+- [Short Hand Properties](https://www.w3schools.com/css/css_margin.asp) - This helped reduce a lot of line of CSS code.
 
 ## Author
 
